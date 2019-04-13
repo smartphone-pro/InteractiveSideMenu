@@ -44,7 +44,7 @@ You can find more details into [CONTRIBUTING](./CONTRIBUTING.md) file.
 ### CocoaPods
 To install using [CocoaPods](https://cocoapods.org/), add the following line to your Podfile:
 ```
-pod 'InteractiveSideMenu'
+pod 'InteractiveSideMenu', :git => 'https://github.com/smartphone-pro/InteractiveSideMenu.git'
 ```
 Please, don't forget to run `pod update` command to update your local specs repository during migration from one version to another.
 
